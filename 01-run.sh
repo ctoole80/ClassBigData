@@ -20,3 +20,5 @@ cat $filename | #access text in filename
 	cut -f3 | #selects 3rd field within lines
 	grep gene | #select lines with "gene"
 	wc -l #prints line count (i.e number of genes) of selected lines
+	
+#this comment was added for tutorial purposes (track changes)
