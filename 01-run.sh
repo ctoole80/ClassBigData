@@ -1,4 +1,4 @@
-#Max's First Line Change
+QWERTY
 #!/bin/bash
 #Script counts the number of genes in the user input file
 #Usage: bash 01-run.sh filename
