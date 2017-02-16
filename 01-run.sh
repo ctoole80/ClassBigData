@@ -1,4 +1,4 @@
-#Max's First Line Change
+#Max's First Line Change, another change to this line
 #!/bin/bash
 #Script counts the number of genes in the user input file
 #Usage: bash 01-run.sh filename
